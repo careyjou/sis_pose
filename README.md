@@ -17,7 +17,8 @@
 		if (Timer > (1 / FrameRate))
 		{
 			Timer = 0;
-			Debug.Log("nose_x:" + N[NowFrame]["keypoints"][(int)SisPointsNum.nose][1] + ", nose_y:" + N[NowFrame]["keypoints"][(int)SisPointsNum.nose][2]);
+			Debug.Log("nose_x:" + N[NowFrame]["keypoints"][(int)SisPointsNum.nose][1]);
+			Debug.Log("nose_y:" + N[NowFrame]["keypoints"][(int)SisPointsNum.nose][2]);
 
 			NowFrame = NowFrame + 1;
 		}
