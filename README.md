@@ -6,6 +6,8 @@
 > *keypoints 骨架關鍵點*
 >> COCO 17
 * ![GITHUB]( http://www.programmersought.com/images/935/c3a73bf51c47252f4a33566327e30a87.png "COCO 17")
+>> openpose 18
+* ![GITHUB]( https://images2017.cnblogs.com/blog/945479/201712/945479-20171216223955061-1066574044.png "openpose 18")
 
 > *UNITY載入keypoints*
 >> SisBone.cs
